@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaililikhar
-- 👀 I’m interested in Front-end Development, Full Stack Development, and Project Management
+- 👀 I’m interested in Data Engineering, Data Analytics, Software Development
 - 🌱 I’m currently learning Computer Science at Rutgers University 
 - 💞️ I’m looking to collaborate on front-end and full stack development
 - 📫 How to reach me by emailing shaililikhar@gmail.com
